@@ -1,0 +1,51 @@
+# Core LLM + LangChain
+langchain
+langchain-community
+langchain-core
+langchain-openai
+langchain-text-splitters
+
+# OpenAI
+openai
+
+# Mistral AI
+mistralai
+
+# Hugging Face (optional but useful for embeddings)
+transformers
+sentence-transformers
+huggingface-hub
+
+# Vector Database
+chromadb
+
+# Embeddings & similarity
+faiss-cpu
+
+# Document Loaders
+pypdf
+python-docx
+unstructured
+beautifulsoup4
+lxml
+
+# Tokenization & text processing
+tiktoken
+
+# Environment variables
+python-dotenv
+
+# API / Backend (if building app)
+fastapi
+uvicorn
+
+# Utilities
+numpy
+pandas
+scikit-learn
+
+# Logging & debugging
+loguru
+
+# Optional (for advanced RAG)
+rank-bm25
